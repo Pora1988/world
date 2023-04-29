@@ -1,4 +1,10 @@
 say hello
+<<<<<<< HEAD
 hello
 kewe
 我shie
+=======
+helloday
+key
+sdfs
+>>>>>>> e60290a286bc8ef944cfaf78b526b91d8f4fecce
