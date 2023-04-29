@@ -1,4 +1,1 @@
-say hello
-hello
-k
-sdfs
+welcome to the wild
